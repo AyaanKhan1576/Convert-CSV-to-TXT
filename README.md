@@ -1,5 +1,3 @@
-Here’s a simple and brief README for your CSV-to-TXT converter:  
-
 ---
 
 # CSV to TXT Converter  
